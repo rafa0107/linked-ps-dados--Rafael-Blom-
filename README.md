@@ -64,7 +64,7 @@ LINKED-PS-DADOS-RAFAEL-BLOM-
 
 ## 🔄 Ciclo de Desenvolvimento & Engenharia dos Dados
 
-Todo o pipeline de extração, tratamento e modelagem analítica foi prototipado e validado no nosso **[🧪 Jupyter Notebook de Desenvolvimento](notebooks/teste_linked.ipynb)** antes de ser modularizado para o ecossistema do Streamlit.
+Todo o pipeline de extração, tratamento e modelagem analítica foi prototipado e validado no nosso **[🧪 Jupyter Notebook de Desenvolvimento](notebooks/teste_linked.ipynb)** ([Visualização alternativa caso o GitHub falhe no render](https://nbviewer.org/github/rafa0107/linked-ps-dados--Rafael-Blom-/blob/main/notebooks/teste_linked.ipynb)).
 
 ### <span style="color:#8B242E">1. Análise Exploratória Inicial (EDA)</span>
 Exploração e diagnóstico da integridade da base para mapear a volumetria, distribuição geográfica dos clientes, representatividade das categorias de produtos, métodos de pagamento preferidos e severidade dos status de cancelamento.
