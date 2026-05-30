@@ -22,7 +22,7 @@ A modelagem dimensional e as validações métricas de apoio foram estruturadas 
 ## 🚀 Demonstração (Deploy Online)
 
 O dashboard está publicado e pode ser acessado publicamente em qualquer dispositivo através do link abaixo:
-🔗 **[Acesse o Dashboard Interativo Aqui](Inserir Link Aqui)**
+🔗 **[Acesse o Dashboard Interativo Aqui](https://linked-ps-dados-rafael-blom.streamlit.app/)**
 
 ---
 
