@@ -1,0 +1,6 @@
+pandas
+matplotlib
+streamlit
+pillow
+ipython
+notebook
